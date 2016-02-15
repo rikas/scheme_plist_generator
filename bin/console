@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'scheme_plist_generator'
+
+require 'pry'
+Pry.start
