@@ -1,0 +1,14 @@
+AllCops:
+  TargetRubyVersion: 2.3
+
+# Configuration parameters: AllowURI, URISchemes.
+Metrics/LineLength:
+  Max: 100
+
+# Configuration parameters: Exclude.
+Style/Documentation:
+  Enabled: false
+
+# Dumb rubocop is dumb
+Style/FrozenStringLiteralComment:
+  Enabled: false
