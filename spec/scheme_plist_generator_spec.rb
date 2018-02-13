@@ -7,7 +7,7 @@ describe SchemePlistGenerator do
 
   describe '.generate' do
     it 'generates the xml correctly' do
-      list = %w(one two)
+      list = %w[one two]
 
       result = described_class.generate(list)
 
