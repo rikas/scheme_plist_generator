@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/scheme_plist_generator.svg)](https://badge.fury.io/rb/scheme_plist_generator) [![Build Status](https://travis-ci.org/rikas/scheme_plist_generator.svg?branch=master)](https://travis-ci.org/rikas/scheme_plist_generator) [![Dependency Status](https://gemnasium.com/rikas/scheme_plist_generator.svg)](https://gemnasium.com/rikas/scheme_plist_generator)
+[![Gem Version](https://badge.fury.io/rb/scheme_plist_generator.svg)](https://badge.fury.io/rb/scheme_plist_generator) [![Build Status](https://travis-ci.org/rikas/scheme_plist_generator.svg?branch=master)](https://travis-ci.org/rikas/scheme_plist_generator)
 
 # SchemePlistGenerator
 
